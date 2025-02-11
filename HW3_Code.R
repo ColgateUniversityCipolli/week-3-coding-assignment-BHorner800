@@ -44,3 +44,6 @@ correction = setdiff(product.of.primes, blake.list)
 
 paste("The wrong number in Blake's list is ", toString(wrong.num), 
       ". The correct number is ", toString(correction), ".", sep = "")
+
+?citation
+(citation("primes"))
